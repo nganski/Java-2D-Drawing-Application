@@ -29,3 +29,7 @@ It demonstrates proficiency in **Java Swing**, **object-oriented programming**, 
 - **File I/O:** Save/load images using `BufferedImage` and `ImageIO`
 - **Portfolio Practices:** Clean, maintainable code and enhanced user experience
 
+## Demo
+
+![Application Demo of an yellow smily face](assets/demo1.png)
+![Application demo of a house being drawn gif](assets/demo2.gif)
