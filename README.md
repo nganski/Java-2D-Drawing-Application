@@ -26,7 +26,7 @@ It serves as a small portfolio piece demonstrating my hands-on experience with J
 - **OOP Principles:** Shape inheritance with `MyShapes`, `MyLine`, `MyOval`, `MyRectangle`
 - **Event Handling:** MouseListener, MouseMotionListener, and Key Bindings
 - **Graphics Programming:** Custom painting, gradients, strokes, and buffering
-- **File I/O:** Save/load images using `BufferedImage` and `ImageIO`
+- **File I/O:** Save images using `BufferedImage` and `ImageIO`
 - **Portfolio Practices:** Clean, maintainable code and enhanced user experience
 
 ---
