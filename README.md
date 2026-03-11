@@ -1,7 +1,7 @@
 # Enhanced Java Swing Drawing Application
 
-This project is an **enhanced version of a Penn State University class coding project** for CMPSC221, transformed into a portfolio-ready drawing application.  
-It demonstrates proficiency in **Java Swing**, **object-oriented programming**, **event handling**, and **GUI application design**.
+This project was originally developed as part of a **Penn State's CMPSC221 course**, with a few additional features added beyond the original requirements to enhance the original drawing application.  
+It serves as a small portfolio piece demonstrating my hands-on experience with Java GUI development, using **Java Swing**, **object-oriented programming**, **event handling**, and **GUI application design**.
 
 ---
 
